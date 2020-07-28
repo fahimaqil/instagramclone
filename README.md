@@ -24,31 +24,31 @@ Homepage
 
 View post by the authors
 
-![alt text](/report/viewpost.png)
+![alt text](/pic/viewpost.png)
 
 View list of the authors
 
-![alt text](/report/listauthor.png)
+![alt text](/pic/listauthor.png)
 
 Login (wrong password)
 
-![alt text](/report/wrongpassword.png)
+![alt text](/pic/wrongpassword.png)
 
 Login (correct password)
 
-![alt text](/report/login.png)
+![alt text](/pic/login.png)
 
 View post by author
 
-![alt text](/report/postbyauthor.png)
+![alt text](/pic/postbyauthor.png)
 
 View comment
 
-![alt text](/report/viewcomment.png)
+![alt text](/pic/viewcomment.png)
 
 Delete comment (only for admin)
 
-![alt text](/report/deletecomment.png)
+![alt text](/pic/deletecomment.png)
 
 
 
