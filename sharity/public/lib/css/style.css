@@ -1,0 +1,158 @@
+html{
+    position:relative;
+  }
+   
+  .navbar-toggler {
+  padding: 1px 5px !important;
+}
+  body{
+  font-family: 'Barlow', sans-serif;
+    font-size:1.1rem; 
+    font-weight:500;
+  }
+.navbar{
+    height:8vh;
+    min-height:50px;
+}
+  .navbar-brand img{
+    max-width: 80%;
+    height: auto;
+    width: auto;
+    
+    }
+  .hidden{
+    display:none;
+  }
+  #logoutButton{
+    display:none;
+   
+  }
+  .nav-link #LogoutButton{
+    padding:0;
+  }
+  #jumbo .jumbotron{
+    background:white;
+  }
+  
+   .nav-link{
+     padding:0;
+   }
+   .carousel{
+     height:100vh;
+   }
+   .carousel-indicators li{
+    background-color: darkgray;
+   }
+   .carousel-indicators .active{
+    background-color:rgb(91,192,222);
+}
+
+.carousel-control-prev-icon{
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+
+}
+@-moz-document url-prefix() {
+  @media only screen and (max-width: 400px) {
+
+  .navbar-brand img,.navbar-toggler{
+    position:relative;
+    bottom:30px;
+  }
+  }
+}
+#jumbo p{
+  font-size: 2em;
+}
+  #jumbo img{
+    width: auto;
+  height: 100vh;
+  max-height: 100vh;
+  }
+  .navbar-nav li{
+   font-size:1.3rem;
+   color:whitesmoke;
+ }
+ #jumbo #test,#jumbo .align{
+   margin-top:230px;
+ }
+#jumbo h1{
+  font-size:5em;
+}
+.formStyle{
+    margin:auto;
+    width:40%;
+}
+@media only screen and (max-width: 1200px) {
+
+  #jumbo p,#jumbo h3{
+  font-size:2em;
+  }
+  #jumbo h1{
+    font-size:3em;
+  }
+ 
+}
+@media only screen and (max-width: 750px) {
+ 
+#jumbo p,#jumbo h3{
+font-size:1em;
+}
+#jumbo h1{
+  font-size:1.5em;
+}
+
+}
+@media only screen and (max-height:320px) {
+
+.carousel{
+  display:none;
+}
+
+
+
+}
+@media only screen and (max-height:500px) {
+  #jumbo h1{
+  font-size:2em;
+}
+.carousel-inner{
+  position:relative;
+  bottom:100px;
+}
+
+#jumbo p{
+ 
+ 
+  font-size:1em; 
+}
+
+}
+@media only screen and (max-width: 300px) {
+  
+  #jumbo  #test{
+  margin-top: 100px ;
+}
+
+ img .card-img-top{
+  width:50%;
+  object-fit: contain;
+}
+
+}
+#gallery p{
+  font-size:0.9em;
+}
+hr{
+  width:80%;
+}
+
+
+    
+    #footer{
+     position:absolute;
+     bottom:10;
+     right:605px;
+ }
