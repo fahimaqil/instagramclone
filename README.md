@@ -7,6 +7,18 @@ Sharity is an instagram clone app. The purpose of this app is as a platform for 
 * The database was made using local JSON databases
 
 ## How it works
-Sharity is a single page application that relies heavily upon AJAX requests to pass JSON objects to and from the server to the client to merge with views that present data.
+*Sharity is a single page application that relies heavily upon AJAX requests to pass JSON objects to and from the server to the client to merge with views that present data. 
+*Since this is only a prototype, once refreshed, the website will be refreshed and return back to the original state. Please only use the buttons available on the website to navigate through the website 
+*Button functions
+  * Sharity logo - return to homepage
+  * Hide view - hide the carousell on top of the page
+  * Change view - change view from list to catalogues
+  * Our author - see the list of authors
+  * Login - to login, use username - admin password- 123456
 
 ## Features
+
+* Homepage
+
+![alt text](/pic/intro.png)
+
