@@ -18,7 +18,44 @@ Sharity is an instagram clone app. The purpose of this app is as a platform for 
 
 ## Features
 
-* Homepage
+Homepage
 
 ![alt text](/pic/intro.png)
+
+View post by the authors
+
+![alt text](/report/viewpost.png)
+
+View list of the authors
+
+![alt text](/report/listauthor.png)
+
+Login (wrong password)
+
+![alt text](/report/wrongpassword.png)
+
+Login (correct password)
+
+![alt text](/report/login.png)
+
+View post by author
+
+![alt text](/report/postbyauthor.png)
+
+View comment
+
+![alt text](/report/viewcomment.png)
+
+Delete comment (only for admin)
+
+![alt text](/report/deletecomment.png)
+
+
+
+
+
+
+
+
+
 
